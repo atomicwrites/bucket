@@ -5,7 +5,7 @@
     "shortcuts":[
         [
             "XMouseButtonControl.exe",
-            "X-Mouse Button Controll"
+            "X-Mouse Button Control"
         ]
     ],
     "persist": "XMBCSettings.xml"
