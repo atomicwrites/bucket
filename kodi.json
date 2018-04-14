@@ -1,0 +1,11 @@
+{
+    "version": "17.6",
+    "url": "https://mirror.math.princeton.edu/pub/xbmc/releases/windows/win32/kodi-17.6-Krypton-x86.exe#kodi.7z",
+    "shortcuts":[
+        [
+            "kodi.exe",
+            "Kodi"
+        ]
+    ]
+}
+
